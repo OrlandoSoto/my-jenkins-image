@@ -1,0 +1,2 @@
+git-client:4.6.0
+job-dsl:1.84  # Needed to seed jobs
